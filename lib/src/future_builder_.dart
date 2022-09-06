@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'sized_box_.dart';
 
 class FutureBuilder_<T> extends FutureBuilder<T> {
   FutureBuilder_(
